@@ -1,0 +1,3 @@
+SM模式文章：https://philcalcado.com/2017/08/03/pattern_service_mesh.html
+SM权威定义：https://buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/
+api gateway文章：https://www.servicemesher.com/blog/do-i-need-an-api-gateway-if-i-have-a-service-mesh/
